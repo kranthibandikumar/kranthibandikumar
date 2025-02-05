@@ -23,7 +23,7 @@ I'm Bandi Kranthi Kumar, a MERN stack web developer passionate about building us
 
 ## 📂 **Projects**
 
-### 🌍 **[snack-steer.onrender.com](https://snack-steer.onrender.com)**  
+### **[Snack and Steer](https://snack-steer.onrender.com)**  
 The Snack and Steer Dashboard is an innovative platform designed to alleviate the frustrations of being stuck in traffic by offering a range of real-time solutions. This dashboard aims to enhance user convenience and productivity by integrating various features, such as real-time delivery, transportation.
 ## Key Features
 
