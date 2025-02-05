@@ -21,4 +21,27 @@ I'm Bandi Kranthi Kumar, a MERN stack web developer passionate about building us
 ---
 [![](https://visitcount.itsvg.in/api?id=kranthibandikumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 📂 **Projects**
+
+### 🌍 **[snack-steer.onrender.com](https://snack-steer.onrender.com)**  
+The Snack and Steer Dashboard is an innovative platform designed to alleviate the frustrations of being stuck in traffic by offering a range of real-time solutions. This dashboard aims to enhance user convenience and productivity by integrating various features, such as real-time delivery, transportation.
+## Key Features
+
+#### Real-Time Delivery Services:
+-  Allowing users to order food, groceries, or other essentials while in traffic, ensuring they can utilize their time efficiently.
+
+#### Transportation Options: 
+- Providing alternative routes, ride-sharing options, and public transportation schedules to help users navigate traffic jams more effectively.
+
+### **[Comprehensive Multi-Vendor E-commerce Platform](https://e-commerce-zeta-topaz.vercel.app/)**  
+
+## Introduction
+Comprehensive Multi-Vendor E-commerce Platform is a robust solution designed to revolutionize online retail by enabling multiple vendors to sell their products through
+a single platform. This application serves as a centralized hub where vendors can manage their inventory, track sales, and engage with customers, while buyers can 
+seamlessly browse, compare, and purchase products from a variety of sellers.
+
+
+## 📬 **Let’s Connect**
+- **📧 Email**: [kranthi.bandikumar@gmail.com](mailto:kranthi.bandikumar@gmail.com)  
+- **💼 LinkedIn**: [Kranthi Kumar Bandi](https://www.linkedin.com/in/kranthi-kumar-bandi-464380223/)  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
