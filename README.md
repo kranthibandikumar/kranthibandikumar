@@ -1,5 +1,8 @@
+# 💻 **Welcome to Kranthi's GitHub Profile!**
+Hi there! 👋
+
 # 💫 About Me:
-Hi there! 👋 I'm Bandi Kranthi Kumar, a MERN stack web developer passionate about building user-friendly and scalable web applications. I have worked on both solo and collaborative projects, honing my skills in problem-solving, teamwork, and clean code practices.<br><br>My tech stack includes JavaScript, React.js, Node.js, MongoDB, HTML, and CSS, and I’m always eager to learn and explore new technologies.<br><br>When I’m not coding, you’ll find me at the gym, staying active and maintaining focus. Feel free to check out my repositories or connect with me—let’s build something amazing together! 🚀
+I'm Bandi Kranthi Kumar, a MERN stack web developer passionate about building user-friendly and scalable web applications. I have worked on both solo and collaborative projects, honing my skills in problem-solving, teamwork, and clean code practices.<br><br>My tech stack includes JavaScript, React.js, Node.js, MongoDB, HTML, and CSS, and I’m always eager to learn and explore new technologies.<br><br>When I’m not coding, you’ll find me at the gym, staying active and maintaining focus. Feel free to check out my repositories or connect with me—let’s build something amazing together! 🚀
 
 
 # 💻 Tech Stack:
