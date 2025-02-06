@@ -1,4 +1,4 @@
-# 💻 **Welcome to Kranthi's GitHub Profile!**
+#  **Welcome to Kranthi's GitHub Profile!**
 Hi there! 👋
 
 # 💫 About Me:
