@@ -23,15 +23,17 @@ I'm Bandi Kranthi Kumar, a MERN stack web developer passionate about building us
 
 ## 📂 **Projects**
 
-### **[Snack and Steer](https://snack-steer.onrender.com)**  
-The Snack and Steer Dashboard is an innovative platform designed to alleviate the frustrations of being stuck in traffic by offering a range of real-time solutions. This dashboard aims to enhance user convenience and productivity by integrating various features, such as real-time delivery, transportation.
+### **[Job Portal](https://job-harbor.vercel.app/)**  
+The Job Portal is a full-stack web application designed to streamline the job search and hiring process. It allows job seekers to find and apply for jobs, while employers can post job listings and manage applications. The platform ensures a smooth and efficient hiring experience with authentication, filtering, and status updates.
 ## Key Features
 
-#### Real-Time Delivery Services:
--  Allowing users to order food, groceries, or other essentials while in traffic, ensuring they can utilize their time efficiently.
-
+#### For Job Seekers:
+-  Browse & Search Jobs – Find jobs based on title, company, and location.
+-  Apply for Jobs – Submit applications directly from the portal.
+-  Track Application Status – See whether an application is pending, shortlisted, or rejected.
 #### Transportation Options: 
-- Providing alternative routes, ride-sharing options, and public transportation schedules to help users navigate traffic jams more effectively.
+- Post New Jobs – Create job listings with details like salary, location, and company name.
+- Manage Applications – View and update application statuses.
 
 ### **[Comprehensive Multi-Vendor E-commerce Platform](https://e-commerce-zeta-topaz.vercel.app/)**  
 
